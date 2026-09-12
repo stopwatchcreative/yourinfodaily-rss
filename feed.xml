@@ -5,7 +5,7 @@
     <link>https://www.yourinfodaily.com/blog</link>
     <description>Startup funding news and music industry press from YourInfoDaily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:09:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:02:44 +0000</lastBuildDate>
     <pubDate>Fri, 28 Aug 2026 13:18:56 +0000</pubDate>
     <generator>yourinfodaily-rss</generator>
     <atom:link href="https://stopwatchcreative.github.io/yourinfodaily-rss/feed.xml" rel="self" type="application/rss+xml"/>
@@ -500,7 +500,7 @@
 </div><div class="component" id="c6a56300a965c1"><div class="art-spacer" style="--spacer-height-mobile: 50px; --spacer-height-tablet: 50px; --spacer-height-desktop: 50px;"></div>
 </div><div class="component" id="c69cd58207e7ae"><div style="" x-data="{ fullscreen: false }">
 <div class="flex justify-center mt-2.5 mb-2.5 md:mt-2.5 md:mb-2.5 lg:mt-2.5 lg:mb-2.5">
-<img alt="Picture" class="resizeable-image lg:rounded-lg md:rounded-lg rounded-lg" src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/yid_ad_final1.png"/>
+<img alt="Picture" class="resizeable-image lg:rounded-lg md:rounded-lg rounded-lg" src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/yid_ad_final1.png?w=1080"/>
 </div>
 </div>
 </div><div class="component" id="c69cd58207ed77"><div class="divider-component flex justify-center" style="--background-color: #C6CDD6;">
@@ -558,7 +558,7 @@
     </a>
 </div>
 </div></div>]]></content:encoded>
-      <enclosure url="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/yid_ad_final1.png" type="image/jpeg"/>
+      <enclosure url="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/yid_ad_final1.png?w=1080" type="image/jpeg"/>
     </item>
     <item>
       <title>Prime Intellect Raises $130M to Build the Infrastructure Layer for Open AI Superintelligence</title>
