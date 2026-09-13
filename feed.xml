@@ -5,7 +5,7 @@
     <link>https://www.yourinfodaily.com/blog</link>
     <description>Startup funding news and music industry press from YourInfoDaily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 22:50:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 03:21:22 +0000</lastBuildDate>
     <pubDate>Fri, 28 Aug 2026 13:18:56 +0000</pubDate>
     <generator>yourinfodaily-rss</generator>
     <atom:link href="https://stopwatchcreative.github.io/yourinfodaily-rss/feed.xml" rel="self" type="application/rss+xml"/>
@@ -690,7 +690,7 @@
 </div><div class="component" id="c6a0b86acc1800"><div style="" x-data="{ fullscreen: false }">
 <div class="flex justify-center mt-2.5 mb-2.5 md:mt-2.5 md:mb-2.5 lg:mt-2.5 lg:mb-2.5">
 <a class="relative" href="https://cbusevents.com/1313-festival-event.html" target="_blank">
-<img alt="Image description" class="resizeable-image lg:rounded-lg md:rounded-lg rounded-lg w-full" src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/olde-towne.jpg"/>
+<img alt="Image description" class="resizeable-image lg:rounded-lg md:rounded-lg rounded-lg w-full" src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/olde-towne.jpg?w=1080"/>
 </a>
 </div>
 </div>
@@ -772,7 +772,7 @@
 </div><div class="component" id="c69fe63ccf3d9d"><div style="" x-data="{ fullscreen: false }">
 <div class="flex justify-center mt-2.5 mb-2.5 md:mt-2.5 md:mb-2.5 lg:mt-2.5 lg:mb-2.5">
 <a class="relative" href="https://unitedrivers.com/" target="_blank">
-<img alt="Image description" class="resizeable-image lg:rounded-lg md:rounded-lg rounded-lg w-full" src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/screenshot_2026-05-08_at_6.29.11pm.png"/>
+<img alt="Image description" class="resizeable-image lg:rounded-lg md:rounded-lg rounded-lg w-full" src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/screenshot_2026-05-08_at_6.29.11pm.png?w=1080"/>
 </a>
 </div>
 </div>
@@ -785,7 +785,7 @@
     </a>
 </div>
 </div></div>]]></content:encoded>
-      <enclosure url="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/screenshot_2026-05-08_at_6.29.11pm.png" type="image/jpeg"/>
+      <enclosure url="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/screenshot_2026-05-08_at_6.29.11pm.png?w=1080" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
