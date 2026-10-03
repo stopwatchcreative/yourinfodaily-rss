@@ -24,12 +24,12 @@ from bs4 import BeautifulSoup
 
 # ----------------------------------------------------------------- settings
 SITE = "https://www.yourinfodaily.com"
-LISTING_PAGES = [f"{SITE}/blog"]            # add f"{SITE}/music", f"{SITE}/news" for more sections
-FEED_TITLE = "YourInfoDaily — Business"
-FEED_DESCRIPTION = "Startup funding, venture capital and business news from YourInfoDaily."
+LISTING_PAGES = [f"{SITE}/blog", f"{SITE}/music", f"{SITE}/news"]
+FEED_TITLE = "YourInfoDaily"
+FEED_DESCRIPTION = "Business, music and culture news from YourInfoDaily."
 FEED_URL = os.environ.get("FEED_URL", "")   # public URL of this XML file, once hosted
 DEFAULT_AUTHOR = os.environ.get("FEED_AUTHOR", "YourInfoDaily")
-MAX_ITEMS = 30
+MAX_ITEMS = 90
 REQUIRE_IMAGE = True                         # NewsBreak wants an image on every article
 OUTPUT = os.environ.get("FEED_OUTPUT", "newsbreak.xml")
 TIMEZONE = ZoneInfo("America/New_York")
