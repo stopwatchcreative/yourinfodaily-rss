@@ -5,8 +5,36 @@
 <link>https://www.yourinfodaily.com/blog</link>
 <description>Business, music and culture news from YourInfoDaily.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 03 Oct 2026 09:18:25 -0400</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 09:22:31 -0400</lastBuildDate>
 <atom:link href="https://stopwatchcreative.github.io/yourinfodaily-rss/newsbreak.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>SiMa.ai Raises $150M Series C at $1.45B Valuation for Physical AI Chips</title>
+<link>https://www.yourinfodaily.com/p/simaai-raises-150m-series-c-at-145b-valuation-for-physical-ai-chips</link>
+<guid isPermaLink="true">https://www.yourinfodaily.com/p/simaai-raises-150m-series-c-at-145b-valuation-for-physical-ai-chips</guid>
+<pubDate>Sun, 04 Oct 2026 09:22:31 -0400</pubDate>
+<dc:creator>YourInfoDaily</dc:creator>
+<description>SiMa.ai raised a $150M Series C led by Fidelity and Amplify at a $1.45B valuation to scale energy-efficient chips that run AI on devices instead of the cloud.</description>
+<content:encoded><![CDATA[<p><strong>Fidelity and Amplify lead as the San Jose company pushes on-device AI silicon for robots, drones and cameras.</strong></p>
+<figure><img src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/qfp3tpkcwvoi3nik2o3be5v2z4.jpg"/></figure>
+<p>SiMa.ai, the San Jose chipmaker building silicon for robots and cameras rather than data centers, has raised a $150 million Series C at a $1.45 billion valuation. Fidelity Management &amp; Research Company and Amplify led the round.</p>
+<p>Alter Venture Partners, Dell Technologies Capital and StepStone Group also participated. Total capital raised now exceeds $500 million.</p>
+<h3>AI Without the Cloud</h3>
+<p>SiMa.ai makes energy-efficient chips and the software around them so devices can run AI models on-device, with no round trip to a data center.</p>
+<p>That matters for anything that has to react in real time. A drone avoiding an obstacle or a robot arm adjusting its grip cannot wait on a network request, and many industrial deployments have no reliable connectivity at all.</p>
+<p>The company was founded by CEO Krishna Rangasayee, previously chief operating officer at chipmaker Groq.</p>
+<h3>The Valuation Jump</h3>
+<p>The $1.45 billion valuation is up from $960 million at the company's Series B in July 2025.</p>
+<p><a href="https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/">TechCrunch</a> reported the raise, noting the company is betting that low-latency performance and lower cost relative to Nvidia GPUs will win it share of the physical AI market, including humanoid robots.</p>
+<h3>The Physical AI Race</h3>
+<p>"Physical AI" has become the industry's shorthand for models that control machines in the world rather than generate text on a screen, and it has drawn a wave of capital across chips, robots and simulation.</p>
+<p>The chip layer is the most capital-intensive part of it. Designing silicon, taping out and qualifying customers takes years, which is why a company at this stage has already raised more than half a billion dollars.</p>
+<h3>Why It Matters</h3>
+<p>Nvidia dominates AI training and much of inference in the data center, but edge devices have different constraints: tight power budgets, fixed costs per unit and physical space limits.</p>
+<p>That gap is what independent chipmakers are targeting. SiMa.ai's pitch is efficiency and price, and with Dell Technologies Capital on the cap table it has at least one investor who knows what device makers will pay for.</p>
+<h3>Source</h3>
+<p>TechCrunch — <a href="https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/">"Physical AI chip developer SiMa AI hits $1.45B valuation"</a></p>]]></content:encoded>
+<media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/qfp3tpkcwvoi3nik2o3be5v2z4.jpg"/>
+</item>
 <item>
 <title>Quartermaster Raises $140M Series B to Expand Its Ocean Sensor Network</title>
 <link>https://www.yourinfodaily.com/p/quartermaster-raises-140m-series-b-to-expand-its-ocean-sensor-network</link>
@@ -564,34 +592,6 @@
 <h3>Source</h3>
 <p>PR Newswire — <a href="https://www.prnewswire.com/news-releases/faze-security-emerged-from-stealth-today-with-50-enterprise-customers-including-several-fortune-500-companies-and-20x-arr-growth-in-18-months-the-company-also-announced-6m-in-seed-funding-led-by-new-era-capital-partners-with--302875578.html">"FAZE Security emerged from stealth today with 50 enterprise customers"</a></p>]]></content:encoded>
 <media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/screenshot_2026-09-15_at_1.15.17_am.png"/>
-</item>
-<item>
-<title>HiBob Raises $166M in Salesforce-Led Round at $3.2B Valuation</title>
-<link>https://www.yourinfodaily.com/p/hibob-raises-166m-in-salesforce-led-round-at-32b-valuation</link>
-<guid isPermaLink="true">https://www.yourinfodaily.com/p/hibob-raises-166m-in-salesforce-led-round-at-32b-valuation</guid>
-<pubDate>Tue, 15 Sep 2026 01:01:13 -0400</pubDate>
-<dc:creator>YourInfoDaily</dc:creator>
-<description>HiBob raised $166 million led by Salesforce with Farallon participating, valuing the HR software company at $3.2 billion as annualized revenue tops $400 million.</description>
-<content:encoded><![CDATA[<p><strong>The HR platform has passed $400 million in annualized revenue as Salesforce and Slack bet on workforce data as the backbone of enterprise AI.</strong></p>
-<figure><img src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/imhibob_raises_166mages.jpg"/></figure>
-<p>HiBob, the HR platform behind Bob, has raised $166 million in a round led by Salesforce with participation from Farallon Capital Management. The investment values the company at $3.2 billion, according to <a href="https://siliconangle.com/2026/09/01/hr-software-startup-hibob-raises-166m-after-annualized-revenue-tops-400m/">SiliconANGLE</a>, up from the $2.7 billion mark it reached when it raised $150 million in 2023.</p>
-<p>The raise comes as HiBob's annualized revenue has climbed past $400 million. The company, co-founded in 2015 by CEO Ronni Zehavi, operates out of New York and London and serves more than 5,500 organizations across 170-plus countries.</p>
-<p>Salesforce's lead role and the $3.2 billion price were also reported by <a href="https://www.calcalistech.com/ctechnews/article/h1wfdqnuge">CTech</a>. The new valuation represents roughly a $500 million step-up from 2023, a period in which HiBob's revenue base has continued to grow as late-stage software valuations reset across the market.</p>
-<h3>Why Salesforce Is Writing the Check</h3>
-<p>The deal is as strategic as it is financial. Salesforce and its Slack unit have been deepening integrations with HiBob, and both sides frame the investment around what they call "trusted workforce context," the org charts, roles, skills and employee data that AI tools need to be useful inside a company.</p>
-<p>Joe Teplow, who oversees strategy for Slack and Salesforce's venture efforts, pointed to HiBob's "deep understanding of how organizations operate." Slack CMO Ryan Gavin added that workforce context makes AI "more relevant to the teams using it."</p>
-<p>Zehavi framed the moment in bigger terms. "The biggest mistake companies can make is to think AI is primarily a technology story," he said. "It is an organizational and managerial revolution."</p>
-<h3>Inside the Platform</h3>
-<p>Bob started as a core HR system and has grown into a broader people platform. It centralizes employee records and workforce management, and includes Bob Skills, a database that maps the expertise employees already have inside a company.</p>
-<p>On the hiring side, HiBob uses AI to generate job descriptions, distribute listings to more than 2,300 job boards, summarize incoming CVs and manage employee referrals and branded careers pages. A workforce planning tool lets HR teams simulate headcount growth before they commit to it.</p>
-<p>The platform also includes an employee portal for company updates and tasks, a learning management system that pulls in third-party courses, and an MCP server that lets companies sync HR data into outside automation and AI tools. AI-driven course recommendations are on the roadmap.</p>
-<h3>What Comes Next</h3>
-<p>HiBob says the capital will back its push toward "organizational intelligence," using the people data it already holds to power AI experiences across collaboration, CRM, finance and operations software. Expect Slack to be a central surface for that work, with more conversational, employee-facing features built around HiBob's data.</p>
-<p>Despite the revenue scale and a fresh unicorn-plus valuation, company leadership said an IPO is not currently in the plans. For now, HiBob is betting that owning the system of record for people will matter more, not less, as enterprises roll AI agents into daily work, and that Salesforce is the right partner to prove it.</p>
-<p>The round lands during a busy stretch for HR tech funding, as investors look for software companies whose proprietary data can give AI products an edge over general-purpose models.</p>
-<h3>Source</h3>
-<p>HiBob — <a href="https://www.hibob.com/news/salesforce-hibob-166m-investment/">"HiBob secures $166M investment from Salesforce and Farallon"</a></p>]]></content:encoded>
-<media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/imhibob_raises_166mages.jpg"/>
 </item>
 <item>
 <title>Nicole Marie VP Drops Soul-Stirring New Anthem “God Is Love” Featuring EXITFAME</title>
