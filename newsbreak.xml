@@ -5,8 +5,143 @@
 <link>https://www.yourinfodaily.com/blog</link>
 <description>Business, music and culture news from YourInfoDaily.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 04 Oct 2026 09:22:31 -0400</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 08:30:14 -0400</lastBuildDate>
 <atom:link href="https://stopwatchcreative.github.io/yourinfodaily-rss/newsbreak.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Project Suppliers Raises $1M Pre-Seed to Build AI Cash Flow Tools for Saudi Construction</title>
+<link>https://www.yourinfodaily.com/p/project-suppliers-raises-1m-pre-seed-to-build-ai-cash-flow-tools-for-saudi-construction</link>
+<guid isPermaLink="true">https://www.yourinfodaily.com/p/project-suppliers-raises-1m-pre-seed-to-build-ai-cash-flow-tools-for-saudi-construction</guid>
+<pubDate>Mon, 05 Oct 2026 08:30:14 -0400</pubDate>
+<dc:creator>YourInfoDaily</dc:creator>
+<description>Saudi construction supply platform Project Suppliers raised a SAR 3.75M ($1M) pre-seed round from angel investors to develop AI-powered cash flow and financing tools.</description>
+<content:encoded><![CDATA[<p><strong>The Saudi marketplace for construction and MEP supplies plans to turn data from nearly 600,000 quotation requests into financing and forecasting products.</strong></p>
+<figure><img src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/screenshot_2026-10-05_at_9.42.29_am.png"/></figure>
+<p>Project Suppliers, a Saudi Arabian technology platform that connects buyers and suppliers in the construction industry, has closed a SAR 3.75 million pre-seed round, equal to $1 million. The money came from a group of angel investors whose names were not disclosed.</p>
+<p>The company plans to use the funding to develop AI-powered cash flow management tools for contractors and suppliers, a move that would take it from marketplace into financial services.</p>
+<h3>What Project Suppliers Does</h3>
+<p>Project Suppliers focuses on construction and on MEP, the mechanical, electrical and plumbing work that makes up a large share of any building project. Contractors use the platform to send quotation requests to suppliers and to manage parts of their supply chain digitally, replacing a process that still runs largely on phone calls, messaging apps and spreadsheets.</p>
+<p>The company says its database covers more than 12,000 suppliers and contractors, and that nearly 600,000 quotation requests have been submitted through the platform. The round was also covered by <a href="https://www.thesaasnews.com/news/project-suppliers-raises-sar-3-75m-pre-seed/">The SaaS News</a>.</p>
+<h3>From Marketplace to Cash Flow</h3>
+<p>That volume of requests is the foundation for the next product. Every quotation records who is buying what, from whom, at what price and on what schedule. Project Suppliers intends to use that operational data to build intelligent financing and predictive analytics tools aimed at one of the industry's most persistent problems: liquidity.</p>
+<p>Construction runs on long payment cycles. Contractors often pay for materials well before they are paid for the finished work, and suppliers extend credit without a clear view of when the money will arrive. Late payment moves down the chain and can stall projects. Tools that forecast cash needs and match financing to real purchasing activity could ease that pressure for the small and mid-sized firms that feel it most.</p>
+<p>Co-founder and CEO Hossam Gaber described the Saudi market as an exceptional opportunity for technological and financial change in the sector.</p>
+<h3>Why It Matters</h3>
+<p>Saudi Arabia is in the middle of one of the largest building programs in the world, driven by Vision 2030 and its slate of giga-projects. That activity has made construction technology a growing area for startups in the Kingdom, especially those tackling procurement and financing.</p>
+<p>The model Project Suppliers is pursuing has worked in other markets: start with a marketplace that captures transactions, then use the resulting data to offer credit and financial tools that banks have trouble underwriting on their own. A $1 million pre-seed is a modest sum, and the company still has to show that its quotation data can support reliable lending decisions. With a base of suppliers and contractors already on the platform, it starts that effort with a clear view of how money moves through the sector.</p>
+<h3>Source</h3>
+<p>Entarabi — "<a href="https://entarabi.com/en/2026/10/project-suppliers-closes-sar-3-75-million-pre-seed-investment-round-to-develop-ai-powered-cash-flow-management-solutions/">Project Suppliers Closes SAR 3.75 Million Pre-Seed Investment Round to Develop AI-Powered Cash Flow Management Solutions</a>"</p>]]></content:encoded>
+<media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/screenshot_2026-10-05_at_9.42.29_am.png"/>
+</item>
+<item>
+<title>Fleuret AI Raises $4.7M Pre-Seed Led by RAISE Ventures for AI Penetration Testing</title>
+<link>https://www.yourinfodaily.com/p/fleuret-ai-raises-47m-pre-seed-led-by-raise-ventures-for-ai-penetration-testing</link>
+<guid isPermaLink="true">https://www.yourinfodaily.com/p/fleuret-ai-raises-47m-pre-seed-led-by-raise-ventures-for-ai-penetration-testing</guid>
+<pubDate>Mon, 05 Oct 2026 08:29:53 -0400</pubDate>
+<dc:creator>YourInfoDaily</dc:creator>
+<description>French cybersecurity startup Fleuret AI raised a €4M ($4.7M) pre-seed round led by RAISE Ventures to build autonomous AI agents for continuous penetration testing.</description>
+<content:encoded><![CDATA[<p><strong>The Paris startup uses autonomous agents to attack a company&#x27;s own systems year-round, replacing the once-a-year security audit.</strong></p>
+<figure><img src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/1791193151126-article-58.webp"/></figure>
+<p>Fleuret AI, a Paris-based cybersecurity startup, has raised €4 million, about $4.7 million, in a pre-seed round led by RAISE Ventures. Auriga Cyber Ventures, Wind and Better Angle also invested, along with business angels from the cybersecurity sector.</p>
+<p>The company is building an agentic AI platform that automates penetration testing, the practice of attacking a company's own systems to find weaknesses before criminals do.</p>
+<h3>What Fleuret AI Does</h3>
+<p>Traditional penetration tests are usually performed by outside specialists on a set schedule, often once or twice a year. The result is a snapshot. Software changes weekly, and a vulnerability introduced the day after an audit can sit undiscovered for months.</p>
+<p>Fleuret AI wants to turn that periodic exercise into a continuous process. Its platform covers five steps: mapping the systems a company exposes to the internet, identifying vulnerabilities, demonstrating that those vulnerabilities can actually be exploited, supporting the fix, and then re-testing to confirm the fix worked. Two AI agents, named Emile and Champollion, do the exploring, working through applications, APIs and infrastructure to find and test weak points.</p>
+<p>The platform also prioritizes findings and connects with the tools security teams already use, so that results reach the people responsible for fixing them.</p>
+<h3>The Founders and the Sovereignty Angle</h3>
+<p>Fleuret AI was founded by CEO Yanis Grigy and CTO Augustin Ponsin. Grigy has said the goal is not simply to automate penetration testing in its current form, but to build an offensive security layer that keeps companies protected throughout the year.</p>
+<p>The startup runs on European infrastructure, a deliberate choice for customers with data sovereignty requirements. <a href="https://techfundingnews.com/fleuret-ai-raises-4m-pre-seed-raise-ventures-autonomous-pentesting/">Tech Funding News</a> reported that the platform is hosted with French cloud provider Scaleway. For European banks, public agencies and critical infrastructure operators, where sensitive security data is stored can decide whether a vendor is considered at all.</p>
+<h3>How the Money Will Be Used</h3>
+<p>The funding will be used to hire across AI, software development and offensive cybersecurity, and to speed up development of the platform for large enterprise environments.</p>
+<h3>Why It Matters</h3>
+<p>Automated offensive security has become one of the busiest corners of cybersecurity investing. AI agents can now chain together the steps of an attack in ways that once required a skilled human tester, and that capability is available to attackers as well as defenders. Companies face pressure to test their defenses far more often than a yearly audit allows, and skilled penetration testers remain scarce and expensive.</p>
+<p>A $4.7 million pre-seed is a sizable first round by European standards, and it reflects how much investor interest the category is drawing. Fleuret AI's bet is that a European-hosted product, built for continuous testing from the start, can win customers who are wary of sending details of their vulnerabilities to providers outside the region.</p>
+<h3>Source</h3>
+<p>Tech.eu — "<a href="https://tech.eu/2026/10/05/fleuret-ai-raises-eur4m-to-advance-ai-powered-offensive-cybersecurity-in-europe">Fleuret AI raises €4M to advance AI-powered offensive cybersecurity in Europe</a>"</p>]]></content:encoded>
+<media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/1791193151126-article-58.webp"/>
+</item>
+<item>
+<title>Pandektes Raises $15.8M Series A Led by Alstin Capital for AI Legal Research</title>
+<link>https://www.yourinfodaily.com/p/pandektes-raises-158m-series-a-led-by-alstin-capital-for-ai-legal-research</link>
+<guid isPermaLink="true">https://www.yourinfodaily.com/p/pandektes-raises-158m-series-a-led-by-alstin-capital-for-ai-legal-research</guid>
+<pubDate>Mon, 05 Oct 2026 08:29:25 -0400</pubDate>
+<dc:creator>YourInfoDaily</dc:creator>
+<description>Danish legal tech startup Pandektes raised a €13.5M ($15.8M) Series A led by Alstin Capital to expand its AI legal research platform across Europe and North America.</description>
+<content:encoded><![CDATA[<p><strong>The Copenhagen startup says revenue grew sixfold in a year and now plans to take its legal data platform across Europe and into North America.</strong></p>
+<figure><img src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/pandektes-co-founders.webp"/></figure>
+<p>Pandektes, a Copenhagen-based legal research startup, has raised €13.5 million, about $15.8 million, in a Series A round led by Munich-based Alstin Capital. PROfounders and Scale Capital also joined the round alongside existing investors. The raise was first reported by The Next Web.</p>
+<p>The funding follows a €2.9 million seed round announced in February 2025 and comes after a year in which the company says its revenue grew sixfold.</p>
+<h3>What Pandektes Does</h3>
+<p>Pandektes builds an AI-powered research platform for lawyers. It gathers legislation, court decisions and administrative rulings into one place, structures that material and links related documents together, so that a lawyer looking for relevant case law can search across sources that are normally scattered among government sites and legacy databases. The platform can also combine those public sources with a client's own data.</p>
+<p>The company was founded by CEO Casper Laursen and Søren Brokær. Its pitch is that the quality of any AI legal product depends on the data underneath it, and that the foundational work of collecting and organizing legal information is where a lasting advantage is built.</p>
+<h3>Growth So Far</h3>
+<p>Pandektes is active in Denmark, Germany and Switzerland and says it is used by more than 500 law firms, companies and public institutions. That is up from roughly 100 organizations around the time of its seed round. According to the company, about two of every three organizations that trial the product become paying customers.</p>
+<p>Those numbers helped draw Alstin Capital. Managing partner Andreas Schenk told The Next Web that legal research is an unusual market, one where many users have long wanted to replace their core system and had no practical alternative.</p>
+<h3>How the Money Will Be Used</h3>
+<p>The company plans to use the Series A to expand beyond its three current markets into more of Europe and into North America, and to grow its team. As <a href="https://www.eu-startups.com/2026/10/copenhagens-pandektes-raises-e13-5-million-to-build-the-data-infrastructure-for-ai-powered-legal-research">EU-Startups reported</a>, Pandektes also intends to open its data through an API, allowing third-party developers to build their own legal tools on top of its infrastructure.</p>
+<p>That last piece signals a broader ambition. Rather than competing only as a search product for law firms, Pandektes wants to become the data layer that other legal AI products rely on.</p>
+<h3>Why It Matters</h3>
+<p>Legal research has been dominated for decades by a small number of incumbent database providers. Generative AI has opened the category to challengers, and investors have poured money into legal tech as a result. Most of that attention has gone to AI assistants that draft and review documents. Pandektes is working on the layer below: clean, connected, current legal data, country by country.</p>
+<p>That work is slow and specific to each jurisdiction, which makes it harder to copy. If the company can repeat its Nordic and German-speaking results in larger markets, a $15.8 million Series A gives it a base from which to challenge much bigger rivals.</p>
+<h3>Source</h3>
+<p>The Next Web — "<a href="https://thenextweb.com/news/pandektes-13-5m-series-a-legal-research">Exclusive: Danish legal research startup Pandektes raises €13.5M Series A</a>"</p>]]></content:encoded>
+<media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/pandektes-co-founders.webp"/>
+</item>
+<item>
+<title>OneByZero Raises $20M Series A Led by Jungle Ventures to Scale Enterprise AI</title>
+<link>https://www.yourinfodaily.com/p/onebyzero-raises-20m-series-a-led-by-jungle-ventures-to-scale-enterprise-ai</link>
+<guid isPermaLink="true">https://www.yourinfodaily.com/p/onebyzero-raises-20m-series-a-led-by-jungle-ventures-to-scale-enterprise-ai</guid>
+<pubDate>Mon, 05 Oct 2026 08:27:30 -0400</pubDate>
+<dc:creator>YourInfoDaily</dc:creator>
+<description>Singapore&#x27;s OneByZero raised a $20M Series A led by Jungle Ventures to grow its forward-deployed engineering teams, enter Japan and expand its NEO enterprise AI platform.</description>
+<content:encoded><![CDATA[<p><strong>The Singapore firm embeds engineers inside banks, telcos and retailers, and is taking outside capital for the first time after three years of doubling revenue.</strong></p>
+<figure><img src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/teamob-06.avif"/></figure>
+<p>OneByZero, a Singapore-based company that deploys artificial intelligence inside large and regulated enterprises, has raised $20 million in a Series A round led by Jungle Ventures. The round is the company's first outside funding, coming after three years of building its business on revenue from enterprise customers.</p>
+<p>The raise lands as big companies across Asia Pacific struggle with a familiar problem: AI pilots are easy to start and hard to turn into systems that run day to day. OneByZero is betting that the fix is less about the model and more about the engineering work required to wire it into a business.</p>
+<h3>What OneByZero Does</h3>
+<p>OneByZero uses a forward-deployed model. Its engineers work on site with a customer's teams to identify the use cases worth pursuing, build AI into existing workflows and systems, and keep improving those deployments once they are live. Its customers so far sit mainly in financial services, telecommunications and retail, sectors where compliance and legacy infrastructure tend to slow new technology down.</p>
+<p>Behind those teams is NEO, the company's AI deployment platform. NEO provides governance controls and audit trails, and it manages what OneByZero calls AI Coworkers: AI agents assigned defined roles and limits so that a regulated business can track what each one is allowed to do.</p>
+<h3>Traction Before the Raise</h3>
+<p>The company says its revenue has more than doubled every year for the past three years. It also reports that some deployments have automated more than 90% of certain customer-facing interactions, and that its work has cut delivery time on complex data modernization projects by half. Those figures are the company's own.</p>
+<p>OneByZero currently operates in nine markets: Australia, India, Indonesia, Malaysia, the Philippines, Singapore, Thailand, the United States and Vietnam. It was founded by CEO Niket Vaidya and CTO Vibhore Kumar.</p>
+<h3>How the Money Will Be Used</h3>
+<p>The new capital will go toward expanding the forward-deployed engineering teams in the markets where the company already works, and toward opening operations in Japan. According to <a href="https://www.techedt.com/onebyzero-raises-us20-million-series-a-to-expand-enterprise-ai-across-asia-pacific">Tech Edition</a>, OneByZero also plans to move into additional industries, including conglomerates, healthcare and the public sector, while continuing to develop NEO and its AI Coworkers.</p>
+<p>Vaidya has framed the opportunity around execution. Access to capable AI is now widely available, in his view, and the value shows up only once it is running inside the systems a business depends on.</p>
+<h3>Why It Matters</h3>
+<p>Enterprise AI spending has shifted from experimentation toward production, and that shift favors firms that can do the integration work. The forward-deployed approach, pairing software with engineers who sit alongside the customer, has become one of the more closely watched models in the sector because it addresses the gap between a working demo and a governed system in production.</p>
+<p>For Jungle Ventures, one of Southeast Asia's most active venture firms, the deal is a bet that the region's banks, telcos and retailers will pay for that help. For OneByZero, a $20 million Series A after three years of customer-funded growth gives it the resources to hire ahead of demand and test its model in Japan, one of the largest enterprise technology markets in Asia.</p>
+<h3>Source</h3>
+<p>e27 — "<a href="https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/">OneByZero raises US$20M Series A to help enterprises move AI from pilots to production</a>"</p>]]></content:encoded>
+<media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/teamob-06.avif"/>
+</item>
+<item>
+<title>Clockout Raises $3.5M to Build a Professional Networking App for Gen Z</title>
+<link>https://www.yourinfodaily.com/p/clockout-raises-3-5m-to-build-a-professional-networking-app-for-gen-z</link>
+<guid isPermaLink="true">https://www.yourinfodaily.com/p/clockout-raises-3-5m-to-build-a-professional-networking-app-for-gen-z</guid>
+<pubDate>Sun, 04 Oct 2026 18:29:01 -0400</pubDate>
+<dc:creator>YourInfoDaily</dc:creator>
+<description>Clockout has raised $3.5M led by 114 Ventures. See how the Gen Z networking app hit 600,000 downloads and $1.1M in annual recurring revenue.</description>
+<content:encoded><![CDATA[<p><strong>Founder Krishna Dosapati has turned a personal struggle to build a network in New York into an app with 600,000 downloads and $1.1 million in recurring revenue.</strong></p>
+<figure><img src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/social-clockoutclubs.jpg"/></figure>
+<p>Clockout, a networking app that helps people meet nearby professionals in person, has raised $3.5 million to date in funding led by 114 Ventures. The company and its 32-year-old founder and CEO, Krishna Dosapati, were <a href="https://fortune.com/2026/10/02/32-year-old-clockout-founder-3-5-million-gen-z-loneliness-epidemic-professional-networking/">profiled by Fortune</a>, which framed the startup as a response to the isolation many younger workers describe as they enter the workforce.</p>
+<p>Evite Ventures, Allied Ventures, Sher Ventures, Gaingels and BMPB VC are among the other investors backing the company.</p>
+<h3>What Clockout Does</h3>
+<p>Clockout sits somewhere between LinkedIn and Meetup. Users can discover professionals near them, join communities organized around an industry or a shared interest, and find local events to attend. The emphasis is on meeting in real life rather than collecting connections on a profile page.</p>
+<p>That positioning targets a gap in the market. LinkedIn is built for job searches, recruiting and content, while event platforms are organized around the gathering instead of the ongoing relationship. Clockout is trying to own the space where a professional network and a social circle overlap.</p>
+<h3>The Founder Behind Clockout</h3>
+<p>Dosapati graduated from New York University and stayed in New York to work, where she ran into the problem firsthand. Building a network in a new city, without a campus or an established circle to lean on, proved harder than expected.</p>
+<p>"If I faced this, how are younger people going to build their network, make friends and find a professional community?" she told Fortune.</p>
+<p>The question has only become more pressing as remote and hybrid work reduce the casual office contact that once helped early-career employees find mentors and friends.</p>
+<h3>Clockout Traction and Revenue</h3>
+<p>Clockout launched in October 2024 and has since passed 600,000 downloads. The company reached $1.1 million in annual recurring revenue within 10 months of turning on monetization, an unusually quick path to revenue for a consumer social product. Users sent 400,000 invitations through the app in 2025.</p>
+<p>The business runs on a freemium model. The core app is free, and a $99 annual subscription unlocks premium features. Subscription revenue means Clockout does not have to rely solely on advertising, the model that has shaped most social platforms.</p>
+<h3>Why the Clockout Funding Matters</h3>
+<p>Consumer social has been a difficult category for venture investors, with few new networks breaking through against entrenched incumbents. Clockout's early numbers suggest that a narrower promise, meet useful people near you, can succeed where broader social apps have stalled.</p>
+<p>The startup is also arriving as concern about loneliness among Gen Z draws attention from employers and investors alike. A product that turns online discovery into in-person connection speaks directly to that concern, and paying subscribers indicate users see real value in it.</p>
+<p>With $3.5 million raised and recurring revenue already above $1 million, Clockout has room to grow its communities and events city by city without the cash burn that has sunk other social startups.</p>
+<h3>Source</h3>
+<p>Fortune — "<a href="https://fortune.com/2026/10/02/32-year-old-clockout-founder-3-5-million-gen-z-loneliness-epidemic-professional-networking/">Meet the 32-year-old founder who raised $3.5 million to help Gen Z feel not so alone in the world</a>"</p>]]></content:encoded>
+<media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/social-clockoutclubs.jpg"/>
+</item>
 <item>
 <title>SiMa.ai Raises $150M Series C at $1.45B Valuation for Physical AI Chips</title>
 <link>https://www.yourinfodaily.com/p/simaai-raises-150m-series-c-at-145b-valuation-for-physical-ai-chips</link>
@@ -445,153 +580,6 @@
 <h3>Source</h3>
 <p>Engineering News-Record — <a href="https://www.enr.com/articles/63636-ai-powered-preconstruction-analysis-platform-wyre-raises-5m-in-funding">"AI-Powered Preconstruction Analysis Platform Wyre Raises $5M in Funding"</a></p>]]></content:encoded>
 <media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/1789681105032.jpg"/>
-</item>
-<item>
-<title>Positron AI Raises $875M at $5B Valuation to Challenge NVIDIA in Inference</title>
-<link>https://www.yourinfodaily.com/p/positron-ai-raises-875m-at-5b-valuation-to-challenge-nvidia-in-inference</link>
-<guid isPermaLink="true">https://www.yourinfodaily.com/p/positron-ai-raises-875m-at-5b-valuation-to-challenge-nvidia-in-inference</guid>
-<pubDate>Sat, 19 Sep 2026 09:53:14 -0400</pubDate>
-<dc:creator>YourInfoDaily</dc:creator>
-<description>Positron AI raised $875M in Series C and C-1 funding at a $5B valuation, led by NEA and Atreides, to bring its memory-first Asimov inference chip to production.</description>
-<content:encoded><![CDATA[<p><strong>NEA and Atreides lead the Reno chipmaker&#x27;s Series C as its Atlas systems run inside Oracle Cloud and next-gen Asimov nears tapeout.</strong></p>
-<figure><img src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/16d9d52400abb8fee24dd9f78c8515a5.jpg"/></figure>
-<p>Positron AI, a Reno, Nevada-based chipmaker building hardware for running AI models, has raised $875 million across Series C and Series C-1 financing at a $5 billion post-money valuation.</p>
-<p>NEA, Atreides Management, Valor Equity Partners, Andra Capital, SemiAnalysis Capital and Netscape co-founder Jim Clark led the round. DFJ Growth, the Qatar Investment Authority and a long list of others participated, along with strategic investors Hudson River Trading, Cisco Investments and Naver Ventures.</p>
-<h3>How the Round Breaks Down</h3>
-<p>The financing includes a $375 million Series C priced at a $3.5 billion pre-money valuation, plus a Series C-1 of up to $500 million. Thomas Jermoluk is joining the company's board.</p>
-<h3>A Memory-First Bet</h3>
-<p>Training AI models has made NVIDIA the most valuable chip company in the world, but inference, the work of actually running those models for users, is becoming the larger and faster-growing workload. Inference performance is often limited less by raw compute than by how much memory a chip can access and how quickly.</p>
-<p>Positron is designing around that constraint. Its first-generation Atlas system is already running at scale, with more than 50 racks deployed inside Oracle Cloud Infrastructure. Other customers include Parasail, Jump Trading and i3d.net.</p>
-<p>Its next-generation Asimov chip is set to tape out at the end of 2026 on TSMC's N3P process, with production planned for the second half of 2027. Each Asimov chip will support between 288GB and 2,304GB of memory, using lower-cost LPDDR5X memory, <a href="https://siliconangle.com/2026/09/10/chipmaker-positron-nabs-875m-to-speed-up-inference-with-consumer-grade-memory/">SiliconANGLE</a> noted. A multi-chip system called Titan will combine four to eight Asimov chips.</p>
-<p>"Positron is making the boldest memory-first bet in AI hardware," said NEA partner Forest Baskett, pointing to Atlas already running at scale inside Oracle's cloud.</p>
-<h3>Where the Money Goes</h3>
-<p>Positron will use the funding to tape out Asimov, build a 2-megawatt-plus engineering data center and emulation platform, ramp Titan production and lock in LPDDR5X memory supply commitments.</p>
-<p>"Speed matters in this market," said CEO Mitesh Agrawal, adding that lessons from Atlas have been carried directly into Asimov and Titan.</p>
-<h3>Why It Matters</h3>
-<p>An $875 million round makes Positron one of the best-funded challengers in AI chips, a category where hyperscalers and model developers are actively looking for alternatives to NVIDIA to control cost and supply.</p>
-<p>The investor mix, spanning venture firms, sovereign wealth, trading firms and networking giant Cisco, signals broad demand for cheaper inference. The real test comes next year, when Asimov has to move from tapeout to production on schedule.</p>
-<h3>Source</h3>
-<p>PR Newswire — <a href="https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html">"Positron AI Raises $875 Million at a $5 Billion Valuation to Bring Its Next-Generation Inference Silicon to Market"</a></p>]]></content:encoded>
-<media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/16d9d52400abb8fee24dd9f78c8515a5.jpg"/>
-</item>
-<item>
-<title>UrgentIQ Raises $15M Series A to Build the Operating System for Urgent Care</title>
-<link>https://www.yourinfodaily.com/p/urgentiq-raises-15m-series-a-to-build-the-operating-system-for-urgent-care</link>
-<guid isPermaLink="true">https://www.yourinfodaily.com/p/urgentiq-raises-15m-series-a-to-build-the-operating-system-for-urgent-care</guid>
-<pubDate>Fri, 18 Sep 2026 01:07:29 -0400</pubDate>
-<dc:creator>YourInfoDaily</dc:creator>
-<description>UrgentIQ raised a $15 million Series A from Five Elms Capital to expand its AI-native EMR for urgent care with native billing, AI coding and insurance verification.</description>
-<content:encoded><![CDATA[<p><strong>Five Elms Capital backs the New York startup&#x27;s AI-native medical records platform as it adds billing, coding and checkout automation.</strong></p>
-<figure><img src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/1789144284287.jpg"/></figure>
-<p>UrgentIQ, a New York-based software company building electronic medical records for urgent care centers, has raised a $15 million Series A from Five Elms Capital. The growth investment will fund an expansion of the company's AI-native platform into billing, coding and insurance workflows.</p>
-<p>The deal gives UrgentIQ fresh capital to go after a segment of healthcare that has long been served by general-purpose EMRs designed for hospitals and primary care practices rather than walk-in clinics.</p>
-<h3>Built for Speed</h3>
-<p>Urgent care runs on volume. Clinics see patients without appointments, move them through quickly and bill a mix of insurers, all with lean staff. UrgentIQ was designed around that reality, combining scheduling, patient intake, clinical documentation, AI-powered coding, revenue cycle management and payment processing in one system.</p>
-<p>"Urgent care deserves its own operating system, one designed around speed, intelligence, and automation from the ground up," said Nat Gibbs, UrgentIQ's founder and CEO.</p>
-<p>The company serves both independent operators and multi-site urgent care groups nationwide, and says customers report meaningful gains in patient throughput after moving to the platform. Users give the product an average satisfaction rating of 9.7 out of 10.</p>
-<h3>What the Money Builds</h3>
-<p>UrgentIQ laid out a specific product roadmap for the new capital:</p>
-<p><strong>A native billing module</strong> that brings more of the revenue cycle in-house rather than relying on outside tools.</p>
-<p><strong>Advanced AI diagnosis and coding</strong> to speed up documentation and reduce claim errors.</p>
-<p><strong>Live insurance verification</strong> so front-desk staff can confirm coverage in real time.</p>
-<p><strong>An AI checkout agent</strong> designed to close out patient visits with less manual work.</p>
-<p>Together, those features aim to cut the administrative drag that slows clinics down between the moment a patient walks in and the moment a claim is paid.</p>
-<h3>Why Five Elms Is In</h3>
-<p>Five Elms Capital, a Kansas City-based growth equity firm focused on B2B software, pointed to the company's traction with operators. "UrgentIQ has built a platform with exceptional operator adoption and product satisfaction," said Joe Onofrio, a partner at the firm.</p>
-<p>Vertical software for specialized care settings has become a steady target for investors, especially as AI makes it possible to automate coding and billing tasks that once required dedicated staff. Urgent care, with its high visit counts and thin margins, is a natural fit for that kind of automation.</p>
-<p>The urgent care market has expanded as patients look for faster and cheaper alternatives to emergency rooms, and as health systems and private equity-backed groups open new locations. That growth has created more demand for software that can standardize operations across many sites without slowing providers down.</p>
-<p>Five Elms focuses on growth-stage B2B software companies, and its investment signals confidence that UrgentIQ can scale from a focused EMR into a full operating platform for the category.</p>
-<p>For UrgentIQ, the Series A is a bet that clinics will pay for a system tailored to their workflow rather than adapting one built for someone else.</p>
-<h3>Source</h3>
-<p>PR Newswire — <a href="https://www.prnewswire.com/news-releases/urgentiq-announces-strategic-growth-investment-from-five-elms-capital-302876441.html">"UrgentIQ Announces Strategic Growth Investment From Five Elms Capital"</a></p>]]></content:encoded>
-<media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/1789144284287.jpg"/>
-</item>
-<item>
-<title>Archy Raises $50M Series C to Build AI Back Office for Dentists</title>
-<link>https://www.yourinfodaily.com/p/archy-raises-50m-series-c-to-build-ai-back-office-for-dentists</link>
-<guid isPermaLink="true">https://www.yourinfodaily.com/p/archy-raises-50m-series-c-to-build-ai-back-office-for-dentists</guid>
-<pubDate>Thu, 17 Sep 2026 01:06:33 -0400</pubDate>
-<dc:creator>YourInfoDaily</dc:creator>
-<description>Archy raised a $50 million Series C led by JMI Equity to expand AI agents across its cloud dental practice management platform, bringing total funding to $97 million.</description>
-<content:encoded><![CDATA[<p><strong>JMI Equity leads the round as the San Jose startup pushes AI agents into claims, charting and patient communication for 1,000-plus practices.</strong></p>
-<figure><img src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/360331-1.png"/></figure>
-<p>Archy, the San Jose-based dental practice management platform, has raised a $50 million Series C led by JMI Equity. TCV, Entrée Capital, Bessemer Venture Partners, CRV and Alven also participated, bringing the company's total funding to $97 million.</p>
-<p>The startup plans to use the capital to accelerate development of AI agents that automate the administrative work that bogs down dental offices, from insurance claims to clinical notes.</p>
-<h3>Replacing 20-Year-Old Software</h3>
-<p>Much of dentistry still runs on legacy, on-premise systems, often literally a server in a closet. Archy was founded in 2021 by CEO Jonathan Rat and CTO Benjamin Kolin to replace that stack with a single cloud platform built for AI from the start.</p>
-<p>"Dentists are quickly realizing that slapping a shiny new AI tool onto 20-year-old software doesn't fix their core operational bottlenecks," Rat said in announcing the round.</p>
-<p>That argument appears to be landing. Archy now serves more than 1,000 dental practices across 45 states, processes over $300 million in payments annually and supports millions of patients. The company employs about 130 people.</p>
-<h3>A Suite of Specialized Agents</h3>
-<p>Rather than one catch-all assistant, Archy has built a set of products aimed at specific pain points in running a practice:</p>
-<p><strong>Archy Revenue</strong> handles claims filing and collections, one of the most time-consuming jobs for front-office staff.</p>
-<p><strong>Archy Scribe</strong> generates SOAP notes automatically, cutting documentation time for dentists and hygienists.</p>
-<p><strong>Archy Verify</strong> checks patient insurance eligibility, while <strong>Archy Connect</strong> manages patient communications and <strong>Archy Insight</strong> delivers practice analytics.</p>
-<p>Because each tool sits on the same underlying platform, Archy can pass data between scheduling, clinical records and billing without the integrations that bolt-on AI products require.</p>
-<h3>Why Investors Are Leaning In</h3>
-<p>Dental care is a large, fragmented market made up largely of independent offices and growing dental service organizations, many of which struggle with staffing shortages at the front desk. Software that reduces manual billing and paperwork translates directly into revenue for practices, which makes the category attractive to growth investors like JMI Equity, a firm known for backing vertical software companies.</p>
-<p>The round also reflects a wider trend of AI-native platforms targeting specialized corners of healthcare, where incumbents have been slow to modernize and administrative costs remain stubbornly high.</p>
-<p>The funding also arrives as dental groups face pressure from rising labor costs and more complex insurance rules. Every claim that is filed correctly the first time, and every hour a hygienist spends with patients instead of on charting, shows up on a practice's bottom line.</p>
-<p>The round pairs lead investor JMI Equity with a deep bench of software backers, including TCV, Bessemer Venture Partners, CRV, Entrée Capital and Alven, giving Archy both capital and operating experience from firms that have scaled vertical SaaS companies before. With 45 states covered, the company's next phase is likely to focus on winning larger multi-location dental groups.</p>
-<p>With nearly $100 million raised and a customer base spanning most of the country, Archy's next test is proving that its agents can take on more of the back office without adding friction for patients or staff.</p>
-<h3>Source</h3>
-<p>WebWire — <a href="https://www.webwire.com/ViewPressRel.asp?aId=360331">"Archy Raises $50M Series C to Bring Dental Practices into the AI Era"</a></p>]]></content:encoded>
-<media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/360331-1.png"/>
-</item>
-<item>
-<title>Cornelis Raises $205M to Challenge Nvidia in AI Networking</title>
-<link>https://www.yourinfodaily.com/p/cornelis-raises-205m-to-challenge-nvidia-in-ai-networking</link>
-<guid isPermaLink="true">https://www.yourinfodaily.com/p/cornelis-raises-205m-to-challenge-nvidia-in-ai-networking</guid>
-<pubDate>Wed, 16 Sep 2026 06:05:28 -0400</pubDate>
-<dc:creator>YourInfoDaily</dc:creator>
-<description>Cornelis raised $205 million led by IAG Capital Partners to scale its AI networking switches and launch Active Compute Fabric, an open alternative to Nvidia.</description>
-<content:encoded><![CDATA[<p><strong>The Intel spinout is pairing fresh capital with Active Compute Fabric, an open architecture that puts processing inside the network itself.</strong></p>
-<figure><img src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/cornelis-raises-205m-to-expand-ai-networking-technology.webp"/></figure>
-<p>Cornelis, the AI and high-performance computing networking company spun out of Intel, has raised $205 million to take on Nvidia's grip on data center networking. The round was led by IAG Capital Partners, according to <a href="https://siliconangle.com/2026/09/14/cornelis-networks-raises-205m-and-scales-up-and-scales-out-with-its-new-active-compute-fabric/">SiliconANGLE</a>.</p>
-<p>The Wayne, Pennsylvania-based company announced the funding at the AI Infra Summit alongside a new architecture called Active Compute Fabric, and a collaboration with Qualcomm Technologies on rack-scale AI data center networking.</p>
-<h3>From Intel Lab to Nvidia Challenger</h3>
-<p>Cornelis was formed in 2020 when the team behind Intel's Omni-Path interconnect spun out as an independent company. It is now led by CEO Lisa Spelman, a longtime Intel executive who took the top job in 2024.</p>
-<p>The pitch is openness. Nvidia sells a tightly integrated stack of GPUs, networking and software. Cornelis is building on open standards, including Ethernet, UALink for scale-up connections inside a rack and Ultra Ethernet for scale-out connections across racks, so data center operators are not locked into a single vendor.</p>
-<h3>Putting Compute in the Network</h3>
-<p>The core problem Cornelis is attacking is idle GPU time. In large AI clusters, expensive chips often sit waiting for data to arrive, as <a href="https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/">TechCrunch</a> noted in its coverage of the round.</p>
-<p>Active Compute Fabric embeds programmable compute, including RISC-V cores, directly into the network fabric so it can perform workload-specific operations while data is in transit. Target workloads include KV cache acceleration and mixture-of-experts routing, two bottlenecks in modern AI inference.</p>
-<p>"The payload does not arrive the way it left," Chief Marketing Officer Brandon Draeger said, describing how the fabric processes data on the way to its destination. Cornelis says pre-production simulations show up to a 50% reduction in network traffic.</p>
-<h3>Where the Money Goes</h3>
-<p>Cornelis will use the capital to scale production of its CN5000 platform, which began shipping in 2025, and its CN6000 line, including an 800-gigabit SuperNIC. The funding also supports the company's expansion into scale-up networking and the rollout of Active Compute Fabric, with a new product generation expected later this year.</p>
-<p>The raise dwarfs the $29 million Series B Cornelis announced earlier in its life, a sign of how much investor appetite has grown for the infrastructure layer around AI chips. With hyperscalers and neoclouds spending heavily to squeeze more output from every GPU, networking has become one of the most contested corners of the AI buildout.</p>
-<p>Cornelis also argues that better networking changes the economics of AI clusters. If operators can keep GPUs busy instead of waiting on data, they can serve more inference requests or finish training runs sooner on the same hardware, a direct way to improve returns on some of the most expensive equipment in the data center.</p>
-<p>The Qualcomm collaboration gives Cornelis a high-profile partner as it moves toward rack-scale systems, where networking, compute and memory are increasingly designed together rather than bought as separate parts.</p>
-<p>Whether an open, standards-based approach can pry customers away from Nvidia's integrated systems is the question Cornelis now has $205 million to answer.</p>
-<h3>Source</h3>
-<p>TechCrunch — <a href="https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/">"AI infrastructure company Cornelis raises $205M to chip away at Nvidia's dominance"</a></p>]]></content:encoded>
-<media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/cornelis-raises-205m-to-expand-ai-networking-technology.webp"/>
-</item>
-<item>
-<title>FAZE Security Emerges From Stealth With $6M Seed for AI Red Teaming</title>
-<link>https://www.yourinfodaily.com/p/faze-security-emerges-from-stealth-with-6m-seed-for-ai-red-teaming</link>
-<guid isPermaLink="true">https://www.yourinfodaily.com/p/faze-security-emerges-from-stealth-with-6m-seed-for-ai-red-teaming</guid>
-<pubDate>Tue, 15 Sep 2026 01:08:33 -0400</pubDate>
-<dc:creator>YourInfoDaily</dc:creator>
-<description>FAZE Security emerged from stealth with a $6 million seed round led by New Era Capital Partners for its autonomous AI red teaming and offensive security platform.</description>
-<content:encoded><![CDATA[<p><strong>The startup already counts about 50 enterprise customers, including several Fortune 500 companies, after roughly 20X ARR growth in 18 months.</strong></p>
-<figure><img src="https://cdn1.artcltn.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/screenshot_2026-09-15_at_1.15.17_am.png"/></figure>
-<p>FAZE Security has emerged from stealth with $6 million in seed funding led by New Era Capital Partners, with participation from Lockstep VC. The New York-based cybersecurity company is building an offensive security orchestration platform powered by autonomous AI agents.</p>
-<p>Unlike most seed-stage startups, FAZE is not launching with a prototype. The company says it already works with about 50 enterprise customers, including several Fortune 500 companies, and has grown annual recurring revenue roughly 20X over the past 18 months.</p>
-<h3>Attacking Like a Hacker</h3>
-<p>FAZE's platform runs what it describes as autonomous agentic red teaming. Its AI agents are trained on proprietary attack data gathered from white-hat hackers, and they continuously probe web applications, APIs and cloud environments the way a real attacker would.</p>
-<p>The key distinction is proof. Many security tools generate long lists of theoretical risks and severity scores, leaving teams to guess which ones matter. FAZE's agents attempt to simulate actual exploits, showing which weaknesses can be used to break in and which are noise.</p>
-<p>That approach targets one of the biggest pain points in enterprise security: alert fatigue. Security teams are overwhelmed with findings and short on the staff needed to validate them, and traditional penetration tests happen only periodically while applications change constantly.</p>
-<h3>A Rebrand and a Launch</h3>
-<p>The company previously operated under the name CYTRIX before stepping out publicly as FAZE Security alongside the funding announcement, according to <a href="https://www.thesaasnews.com/news/faze-security-raises-6m-seed/">The SaaS News</a>.</p>
-<p>Its lead investor, New Era Capital Partners, recently closed a $120 million fund aimed at Israeli-founded startups, per <a href="https://www.calcalistech.com/ctechnews/article/rysthdalxe">CTech</a>, adding FAZE to a portfolio focused on companies building for global markets.</p>
-<h3>What Comes Next</h3>
-<p>FAZE plans to use the seed capital to support continued growth and expand the capabilities of its offensive security orchestration platform as it moves from stealth into a more visible go-to-market push.</p>
-<p>The timing fits a broader shift in the industry. As attackers adopt AI to find and exploit vulnerabilities faster, defenders are turning to AI agents that can test systems continuously instead of waiting for the next scheduled audit. A wave of startups is now competing to automate the work of human red teams and penetration testers.</p>
-<p>For buyers, the promise is fewer false alarms and faster fixes. When a platform can demonstrate that a vulnerability is exploitable, security and engineering teams have a clearer case for prioritizing it, and less time is wasted debating findings that pose little real risk.</p>
-<p>Continuous testing also matters as companies ship code more often. An application that passed last quarter's penetration test may look very different after weeks of new releases, integrations and cloud configuration changes, and every one of those changes can open a new path for attackers that a point-in-time assessment would miss.</p>
-<p>With revenue traction already in hand and Fortune 500 logos on its customer list, FAZE enters that race with more proof points than most companies at the seed stage.</p>
-<h3>Source</h3>
-<p>PR Newswire — <a href="https://www.prnewswire.com/news-releases/faze-security-emerged-from-stealth-today-with-50-enterprise-customers-including-several-fortune-500-companies-and-20x-arr-growth-in-18-months-the-company-also-announced-6m-in-seed-funding-led-by-new-era-capital-partners-with--302875578.html">"FAZE Security emerged from stealth today with 50 enterprise customers"</a></p>]]></content:encoded>
-<media:thumbnail url="https://www.yourinfodaily.com/storage/12053/a170e956-82a9-42d1-bd06-4c10b1365dd3/screenshot_2026-09-15_at_1.15.17_am.png"/>
 </item>
 <item>
 <title>Nicole Marie VP Drops Soul-Stirring New Anthem “God Is Love” Featuring EXITFAME</title>
