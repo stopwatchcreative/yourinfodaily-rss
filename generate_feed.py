@@ -11,6 +11,7 @@ from __future__ import annotations
 import html
 import re
 import sys
+import time
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from urllib.parse import urljoin
@@ -36,10 +37,25 @@ HEADERS = {
 }
 
 
+RETRY_WAITS = (10, 30, 60)  # seconds to wait before each retry
+
+
 def fetch(url: str) -> str:
-    resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-    resp.raise_for_status()
-    return resp.text
+    """GET a page, retrying timeouts, connection errors and 5xx responses."""
+    for wait in (*RETRY_WAITS, None):
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+            if resp.status_code < 500:
+                resp.raise_for_status()
+                return resp.text
+            error: Exception = requests.HTTPError(f"{resp.status_code} for {url}")
+        except (requests.ConnectionError, requests.Timeout) as exc:
+            error = exc
+        if wait is None:
+            raise error
+        print(f"retry in {wait}s: {url} ({error})", file=sys.stderr)
+        time.sleep(wait)
+    raise RuntimeError("unreachable")
 
 
 def parse_date(raw: str | None) -> datetime | None:
