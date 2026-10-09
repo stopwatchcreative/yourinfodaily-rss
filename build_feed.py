@@ -15,6 +15,7 @@ import json
 import os
 import re
 import sys
+import time
 from email.utils import format_datetime
 from urllib.parse import urljoin, urlparse
 from zoneinfo import ZoneInfo
@@ -54,10 +55,24 @@ session = requests.Session()
 session.headers["User-Agent"] = "YourInfoDaily-FeedBuilder/1.0 (+https://www.yourinfodaily.com)"
 
 
+RETRY_WAITS = (10, 30, 60)  # seconds to wait before each retry
+
+
 def fetch(url):
-    r = session.get(url, timeout=30)
-    r.raise_for_status()
-    return r.text
+    """GET a page, retrying timeouts, connection errors and 5xx responses."""
+    for wait in (*RETRY_WAITS, None):
+        try:
+            r = session.get(url, timeout=30)
+            if r.status_code < 500:
+                r.raise_for_status()
+                return r.text
+            error = requests.HTTPError(f"{r.status_code} for {url}")
+        except (requests.ConnectionError, requests.Timeout) as e:
+            error = e
+        if wait is None:
+            raise error
+        print(f"RETRY in {wait}s: {url} ({error})", file=sys.stderr)
+        time.sleep(wait)
 
 
 def post_links():
