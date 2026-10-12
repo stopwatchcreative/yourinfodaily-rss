@@ -55,14 +55,19 @@ session = requests.Session()
 session.headers["User-Agent"] = "YourInfoDaily-FeedBuilder/1.0 (+https://www.yourinfodaily.com)"
 
 
-RETRY_WAITS = (10, 30, 60)  # seconds to wait before each retry
+RETRY_WAITS = (5, 15)  # seconds to wait before each retry
+TIMEOUT = (10, 30)     # (connect, read) seconds
+
+
+class SiteUnreachable(Exception):
+    """The site couldn't be reached; keep the last published feed."""
 
 
 def fetch(url):
     """GET a page, retrying timeouts, connection errors and 5xx responses."""
     for wait in (*RETRY_WAITS, None):
         try:
-            r = session.get(url, timeout=30)
+            r = session.get(url, timeout=TIMEOUT)
             if r.status_code < 500:
                 r.raise_for_status()
                 return r.text
@@ -70,6 +75,8 @@ def fetch(url):
         except (requests.ConnectionError, requests.Timeout) as e:
             error = e
         if wait is None:
+            if isinstance(error, (requests.ConnectionError, requests.Timeout)):
+                raise SiteUnreachable(f"could not reach {url}: {error}")
             raise error
         print(f"RETRY in {wait}s: {url} ({error})", file=sys.stderr)
         time.sleep(wait)
@@ -294,10 +301,21 @@ def render(items):
 
 
 def main():
+    try:
+        build()
+    except SiteUnreachable as e:
+        # GoDaddy sometimes drops connections from GitHub's servers. That is not
+        # a broken feed, so keep the existing file and finish cleanly.
+        print(f"::warning::Site unreachable, kept the existing {OUTPUT} ({e})")
+
+
+def build():
     items = []
     for url in post_links()[:MAX_ITEMS]:
         try:
             item = parse_post(url)
+        except SiteUnreachable:
+            raise  # a half-built feed would drop posts; keep the old one instead
         except Exception as e:  # one bad post shouldn't sink the feed
             print(f"SKIP  {url}  ({e})", file=sys.stderr)
             continue

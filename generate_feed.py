@@ -30,14 +30,18 @@ FEED_LANGUAGE = "en-us"
 
 MAX_ITEMS = 50
 MAX_PAGES = 5
-TIMEOUT = 30
+TIMEOUT = (10, 30)  # (connect, read) seconds
 HEADERS = {
     "User-Agent": "yourinfodaily-rss/1.0 (+https://github.com/stopwatchcreative/yourinfodaily-rss)",
     "Accept": "text/html,application/xhtml+xml",
 }
 
 
-RETRY_WAITS = (10, 30, 60)  # seconds to wait before each retry
+RETRY_WAITS = (5, 15)  # seconds to wait before each retry
+
+
+class SiteUnreachable(Exception):
+    """The blog couldn't be reached; keep the last published feed."""
 
 
 def fetch(url: str) -> str:
@@ -151,6 +155,8 @@ def crawl() -> list[dict]:
         url = BLOG_URL if page == 1 else f"{BLOG_URL}?page={page}"
         try:
             page_html = fetch(url)
+        except (requests.ConnectionError, requests.Timeout) as exc:
+            raise SiteUnreachable(f"could not reach {url}: {exc}") from exc
         except Exception as exc:  # noqa: BLE001
             print(f"warn: could not fetch {url}: {exc}", file=sys.stderr)
             break
@@ -222,7 +228,13 @@ def build_rss(posts: list[dict]) -> str:
 
 
 def main() -> int:
-    posts = crawl()
+    try:
+        posts = crawl()
+    except SiteUnreachable as exc:
+        # GoDaddy sometimes drops connections from GitHub's servers. That is not
+        # a broken feed, so keep the existing feed.xml and finish cleanly.
+        print(f"::warning::Site unreachable, kept the existing feed.xml ({exc})")
+        return 0
     if not posts:
         print("error: no posts found - the blog markup may have changed", file=sys.stderr)
         return 1
