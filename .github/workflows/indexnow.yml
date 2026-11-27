@@ -1,0 +1,87 @@
+name: IndexNow ping
+
+# Hourly: read the yourinfodaily.com sitemap, send any URL not sent before to
+# IndexNow (Bing, Yandex, Naver, Seznam, Yep), then record it in indexnow-sent.txt.
+# The first run sends every URL in the sitemap (the one-time backfill).
+
+on:
+  schedule:
+    - cron: "41 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: indexnow
+  cancel-in-progress: false
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Submit new URLs to IndexNow
+        run: |
+          python3 - <<'PY'
+          import json, os, re, urllib.request
+
+          KEY = "b8154f3fbedc428bbb45ff96444ca639"
+          HOST = "www.yourinfodaily.com"
+          STATE = "indexnow-sent.txt"
+
+          req = urllib.request.Request(
+              f"https://{HOST}/sitemap.xml",
+              headers={"User-Agent": "Mozilla/5.0 (compatible; yourinfodaily-indexnow)"},
+          )
+          xml = urllib.request.urlopen(req, timeout=60).read().decode("utf-8")
+          urls = sorted({
+              u.replace("&amp;", "&")
+              for u in re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", xml)
+              if u.startswith(f"https://{HOST}/")
+          })
+          if not urls:
+              raise SystemExit("No URLs found in sitemap")
+
+          sent = set(open(STATE).read().split()) if os.path.exists(STATE) else set()
+          new = [u for u in urls if u not in sent]
+          print(f"{len(urls)} URLs in sitemap, {len(new)} new")
+
+          for i in range(0, len(new), 10000):
+              body = json.dumps({
+                  "host": HOST,
+                  "key": KEY,
+                  "keyLocation": f"https://{HOST}/{KEY}.txt",
+                  "urlList": new[i:i + 10000],
+              }).encode("utf-8")
+              r = urllib.request.Request(
+                  "https://api.indexnow.org/indexnow",
+                  data=body,
+                  method="POST",
+                  headers={"Content-Type": "application/json; charset=utf-8"},
+              )
+              with urllib.request.urlopen(r, timeout=60) as resp:
+                  print(f"IndexNow accepted batch of {len(new[i:i + 10000])}: HTTP {resp.status}")
+
+          with open(STATE, "w") as f:
+              f.write("\n".join(sorted(sent | set(urls))) + "\n")
+          PY
+
+      - name: Commit sent list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add indexnow-sent.txt
+          if git diff --cached --quiet; then
+            echo "Nothing new to record"
+            exit 0
+          fi
+          git commit -m "Update IndexNow sent list"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep 15
+          done
+          exit 1
